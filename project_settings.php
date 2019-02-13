@@ -3,21 +3,20 @@
 	
 	/* Project related settings */
 	define("BASE_PATH", dirname(__FILE__));
-	define("SITE_URL", 'http://localhost/webpanel/');
+	define("SITE_URL", 'index.php');
 	define("SITE_TITLE", "WEB PANEL");
 
 	/* Database related settings */
-	define("HOST", 'localhost');
+	define("HOST", 'linebot.ctmgpmqs8fh1.us-west-2.rds.amazonaws.com');
 	define("USERNAME", 'root');
-	define("PASSWORD", '');
+	define("PASSWORD", 'passwordlinebot');
 	define("DATABASE", 'webpanel');
 
 	/* Security level settings */
 	define('APP_SECRET_HASH','webpanel');
 
-	/* Backend table listing settings */
+	/* Backend table listing ssettings */
 	define('RECORDS_PER_PAGE','2');
 
 	header('Access-Control-Allow-Origin: *');
-
 ?>
