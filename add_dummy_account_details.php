@@ -40,7 +40,7 @@ if(!empty($_POST['btnSubmitAddDummyAccountDetails'])) {
 							</div>
 							<div class="row">
 								<div class="col-md-3">
-									<button type="submit" name="btnSubmitAddDummyAccountDetails" value="btnSubmitAddDummyAccountDetails" class="btn btn-info btn-fill btn-wd">Add account</button>
+									<button type="submit" name="btnSubmitAddDummyAccountDetails" value="btnSubmitAddDummyAccountDetails" class="btn btn-info btn-fill btn-wd">Add Account</button>
 								</div>
 							</div>
 						</form>
