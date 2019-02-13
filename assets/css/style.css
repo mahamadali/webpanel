@@ -1,0 +1,25 @@
+.acf-welcome-note {
+	margin-top:50px;
+	font-family: 'Montserrat', sans-serif;
+	padding:20px;
+	border : 1px solid rgba(0,0,0,0.1);
+	box-shadow: 5px 10px #555;
+}
+.acf-welcome-note h1 {
+	color : #555;
+}
+.acf-welcome-note p {
+	padding-left: 10px;
+	color: rgba(0,0,0,0.7);
+	font-size:16px;
+}
+.acf-welcome-note img {
+	border-radius: 50%;
+	box-shadow: 0px 0px #555;
+}
+.ml-1 {
+	margin-left: 1em !important;
+}
+.mt-2 {
+	margin-top: 2em !important;
+}
